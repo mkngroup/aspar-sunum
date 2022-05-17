@@ -18,7 +18,7 @@ const mainfeed = () => {
           </h1>
           <div className="lg:grid grid-cols-2 bg-[url('https://img.freepik.com/free-vector/white-seamless-weave-pattern-background-vector_53876-111595.jpg?t=st=1652707119~exp=1652707719~hmac=bd9962eafea707d3865bb72a6d2f3d54c91f6eed890393e329f710d67ecf44f2&w=1060')] bg-no-repeat bg-cover">
             <img
-              src="/asparbina.jpg"
+              src="https://res.cloudinary.com/dnfmvs2ci/image/upload/v1652749327/aspar%20sunum%20galeri%20resimleri/asparbina_afug7v.jpg"
               alt=""
               className="w-full h-full rounded-r-full"
             />
@@ -55,7 +55,7 @@ const mainfeed = () => {
             span="ASPAR İLAÇ bünyesinde "
             paragraf="faaliyet gösteren firmamızınız stüdyo ve tasarım odası ile sizlere iyi hizmet sunmak için çalışmaktayız. Ekibimizin tüm üyeleri çözüm odaklı, yenilikçi, öğrenmeye ve gelişime açık gençlerden oluşmaktadır. Yaptığımız işlerde “en iyi” olmaya çalışıyor ve tasarladığımız ürünlerde kaliteye odaklanıyoruz. Stüdyo ve tasarım odasında ürün tasarımı, ürün ve katalog çekimleri, reklam çekimleri yapılmakta ve sosyal medya paylaşım içerikleri oluşturulmaktadır. Kendimize ve ekibimize güvenerek çıktığımız bu yolda başarılarımızın devamlı olması için çalışıyor ve bundan gurur duyuyoruz!"
             span2=""
-            videosrc="/ofìs bolumu_1.mp4"
+            videosrc="https://res.cloudinary.com/dnfmvs2ci/video/upload/v1652747722/videos/of%C3%ACs_bolumu_1_szmfzu.mp4"
           />
         </div>
         <br />

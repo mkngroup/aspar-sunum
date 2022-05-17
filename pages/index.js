@@ -6,14 +6,7 @@ import Footer from "../components/footer";
 export default function Home() {
   return (
     <div className="scroll-smooth">
-      <Head>
-        <title>Aspar İlaç Kozmetik Gıda Sanayi A.Ş</title>
-        <meta
-          name="description"
-          content="Aspar İlaç Kozmetik Gıda Sanayi A.Ş"
-        />
-        <link rel="icon" href="/A-1.png" />
-      </Head>
+      
       <NavbarMain />
       <main className="">
         <VideoBg />

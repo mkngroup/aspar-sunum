@@ -13,7 +13,7 @@ function uretimmakinalar() {
         </h1>
         <div className="lg:grid grid-cols-2 bg-[url('https://img.freepik.com/free-vector/white-seamless-weave-pattern-background-vector_53876-111595.jpg?t=st=1652707119~exp=1652707719~hmac=bd9962eafea707d3865bb72a6d2f3d54c91f6eed890393e329f710d67ecf44f2&w=1060')] bg-no-repeat bg-cover">
           <img
-            src="/IMG_20220516_172057.jpg"
+            src="https://res.cloudinary.com/dnfmvs2ci/image/upload/v1652749410/aspar%20sunum%20galeri%20resimleri/IMG_20220516_172057_csg6hu.jpg"
             alt=""
             className="w-full h-full rounded-r-full"
           />

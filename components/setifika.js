@@ -9,27 +9,27 @@ function setifika() {
         </h1>
         <div className="flex gap-5  overflow-x-auto overflow-y-hidden">
           <Card
-            img="/ISO 9001.jpg"
+            img="https://res.cloudinary.com/dnfmvs2ci/image/upload/v1652748549/aspar%20izin%20belgeler/ISO_9001_lexuem.jpg"
             text1="ISO 9001:2015"
             text2="Kalite Yönetim Sistemi"
           />
           <Card
-            img="/halalsertifika.jpg"
+            img="https://res.cloudinary.com/dnfmvs2ci/image/upload/v1652748554/aspar%20izin%20belgeler/HELAL_SERTIFIKA_iatkux.jpg"
             text1="Halal Sertifikası"
             text2=""
           />
           <Card
-            img="/ISO 22000.jpg"
+            img="https://res.cloudinary.com/dnfmvs2ci/image/upload/v1652748547/aspar%20izin%20belgeler/ISO_22000_zvatah.jpg"
             text1="ISO 22000:2018"
             text2="Gıda Güvenliği Yönetim Sistemi"
           />
           <Card
-            img="/ISO 22716 .jpg"
+            img="https://res.cloudinary.com/dnfmvs2ci/image/upload/v1652748549/aspar%20izin%20belgeler/ISO_22716_gepcyn.jpg"
             text1="İSO 22716:2013"
             text2="GMP"
           />
           <Card
-            img="/TR 34-K.jpg"
+            img="https://res.cloudinary.com/dnfmvs2ci/image/upload/v1652748544/aspar%20izin%20belgeler/TR_34-K_eiynf8.jpg"
             text1="TR34"
             text2=""
           />

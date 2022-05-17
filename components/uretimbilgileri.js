@@ -9,7 +9,7 @@ function uretimbilgileri() {
           ÜRETİM BİLGİLERİ
         </h1>
         <div className="lg:grid grid-cols-2 bg-[url('https://img.freepik.com/free-vector/white-seamless-weave-pattern-background-vector_53876-111595.jpg?t=st=1652707119~exp=1652707719~hmac=bd9962eafea707d3865bb72a6d2f3d54c91f6eed890393e329f710d67ecf44f2&w=1060')] bg-no-repeat bg-cover">
-          <img src="/r4.jpg" alt="" className="w-full h-full rounded-r-full" />
+          <img src="https://res.cloudinary.com/dnfmvs2ci/image/upload/v1652748874/aspar%20sunum%20galeri%20resimleri/r4_qi8252.jpg" alt="" className="w-full h-full rounded-r-full" />
           <div className="p-5 flex flex-col justify-center">
             <p className="my-5 text-lg font-semibold">
               Aspar İlaç - Gıda Takviyesi, Kozmetik & Dermokozmetik ve Kişisel
