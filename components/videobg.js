@@ -9,7 +9,7 @@ function videobg() {
         <div className="h-full w-full">
           <video
             className="w-full h-full object-cover"
-            src="/Comp 1_1.mp4"
+            src="https://res.cloudinary.com/dnfmvs2ci/video/upload/v1652747146/videos/Comp_1_1_p3a5cd.mp4"
             autoPlay
             loop
             muted
